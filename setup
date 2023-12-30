@@ -1,0 +1,7 @@
+echo "# Bathroom_BT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/paulie24/Bathroom_BT.git
+git push -u origin main
